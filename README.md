@@ -1,2 +1,1 @@
-# YIDO
-YIDO链
+# YIDO Chain
